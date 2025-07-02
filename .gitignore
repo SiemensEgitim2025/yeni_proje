@@ -2,6 +2,8 @@ test
 /test.txt
 /osman/ahmet.txt
 *.log
+*.md
+!README.md
 # Ignore all files in the test directory
 # Ignore the specific test.txt file in the root directory   
 # Ignore the specific ahmet.txt file in the osman directory
